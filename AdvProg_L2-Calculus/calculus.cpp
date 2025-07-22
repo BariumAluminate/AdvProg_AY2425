@@ -9,7 +9,7 @@ using std::stod;
 
 
 double mySin(double x);
-double myCos(double x);
+double myCos(double x);//test fork
 double mySqrt(double x);
 
 /***
